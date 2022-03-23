@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Hakaton\\fff\\FMI_Codes_2022-DASH-main\\picture-processing-functionality\\ProcessingImage\\ProcessingImage\\ProcessingImage.csproj": {}
+    "D:\\Hakaton\\MY REPO FINAL\\FMI-Codes-2022-DASH-team\\picture-processing-functionality\\ProcessingImage\\ProcessingImage\\ProcessingImage.csproj": {}
   },
   "projects": {
-    "D:\\Hakaton\\fff\\FMI_Codes_2022-DASH-main\\picture-processing-functionality\\ProcessingImage\\ProcessingImage\\ProcessingImage.csproj": {
+    "D:\\Hakaton\\MY REPO FINAL\\FMI-Codes-2022-DASH-team\\picture-processing-functionality\\ProcessingImage\\ProcessingImage\\ProcessingImage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Hakaton\\fff\\FMI_Codes_2022-DASH-main\\picture-processing-functionality\\ProcessingImage\\ProcessingImage\\ProcessingImage.csproj",
+        "projectUniqueName": "D:\\Hakaton\\MY REPO FINAL\\FMI-Codes-2022-DASH-team\\picture-processing-functionality\\ProcessingImage\\ProcessingImage\\ProcessingImage.csproj",
         "projectName": "ProcessingImage",
-        "projectPath": "D:\\Hakaton\\fff\\FMI_Codes_2022-DASH-main\\picture-processing-functionality\\ProcessingImage\\ProcessingImage\\ProcessingImage.csproj",
+        "projectPath": "D:\\Hakaton\\MY REPO FINAL\\FMI-Codes-2022-DASH-team\\picture-processing-functionality\\ProcessingImage\\ProcessingImage\\ProcessingImage.csproj",
         "packagesPath": "C:\\Users\\user 1\\.nuget\\packages\\",
-        "outputPath": "D:\\Hakaton\\fff\\FMI_Codes_2022-DASH-main\\picture-processing-functionality\\ProcessingImage\\ProcessingImage\\obj\\",
+        "outputPath": "D:\\Hakaton\\MY REPO FINAL\\FMI-Codes-2022-DASH-team\\picture-processing-functionality\\ProcessingImage\\ProcessingImage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",

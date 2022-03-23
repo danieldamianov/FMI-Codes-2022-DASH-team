@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4bHJhRD774ix1adJS8ajmgQ06Vln1oVidPyNxCnAbpLdP2czprR4IrIHou0UhptvjbtP6H0mTfObIspgvHQkIw==",
+  "dgSpecHash": "svY8z3yp4j6lJbVKoZ97UG0407RF8XrVFIcLd3mdR2bQ6MwFmwEJZ8TWl54+VgMIqiEbEtj1lRcmSshouFuzBQ==",
   "success": true,
-  "projectFilePath": "D:\\Hakaton\\fff\\FMI_Codes_2022-DASH-main\\picture-processing-functionality\\ProcessingImage\\ProcessingImage\\ProcessingImage.csproj",
+  "projectFilePath": "D:\\Hakaton\\MY REPO FINAL\\FMI-Codes-2022-DASH-team\\picture-processing-functionality\\ProcessingImage\\ProcessingImage\\ProcessingImage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user 1\\.nuget\\packages\\lazziya.imageresize\\4.1.0\\lazziya.imageresize.4.1.0.nupkg.sha512",
     "C:\\Users\\user 1\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
